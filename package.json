@@ -1,0 +1,16 @@
+{
+  "name": "sakai-sync",
+  "version": "1.0.0",
+  "description": "Sakai to Notion homework sync",
+  "main": "sakai-sync.js",
+  "scripts": {
+    "login": "node sakai-login.js",
+    "sync": "node sakai-sync.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+.browser-profile/
+storage-state.json
+seen-assignments.json
+launchd.out.log
+launchd.err.log
